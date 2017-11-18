@@ -1,4 +1,22 @@
 # 08-Endless-Runner
+
+One Run Dungeon: The Endless Runner is the official spinoff title of the critically ignored Fall 2016 Hoosier Games project, One Run Dungeon. Jump over pits (any key) and sprint past goblins (click) in your desperate attempt to crawl through this dungeon in just one run!
+
+All assets used here are from the One Run Dungeon project. 
+
+Credits:
+
+Character Artwork: Jay Humphrey
+Background Art: Blake Anderson
+chandelier: Alex Doub
+Music: Thomas McGrew
+Sound Effects: Ethan Adams
+Soundscape: Nathaniel Ferguson
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
 This is the seventh assignment for ILS-Z399: a side-scrolling 2D game.
 
 Fork the repository, update the code, change the LICENSE and the README.md, and then submit a link to your repository on Canvas.
